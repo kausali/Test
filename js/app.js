@@ -55,7 +55,7 @@ particlesJS("hello",
       "random": false, //true will make random bubble bigger or smaller in size
       "anim": {
         "enable": false,
-        "speed": 1,
+        "speed": 0.1,
         "size_min": 0.1,
         "sync": false
       }
