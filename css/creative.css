@@ -49,10 +49,17 @@ p {
     background: transparent;
     /* z-index: 300; */}
 
+    #footer-text{
+    font-size: 10px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
 .wokexp{
       padding: 25px;
-      /* width: 83%; */
-       margin: 40px 30%;
+      margin: 5% auto ;
+      width: 83%;
+       /* margin: 40px 30%; */
        background-color:rgba(107, 105, 105, 0.4);
        border-radius: 20px;
    }
@@ -344,7 +351,7 @@ header.masthead {
       font-size: 22px; } }
 
 .call-to-action {
-  background-color:#88888a;
+  background-color:#131313;
   color: white;
   padding: 50px 0; }
   .call-to-action h2 {
@@ -404,6 +411,27 @@ header.masthead {
     width: 30px;
     border: 2px solid #0f0b10;
 }
+
+.project-list{
+  text-align: center;
+}
+.project-list p{
+  font-size: 14px;
+} 
+.section-end{
+  margin-bottom: 5%;
+  max-width: 80%;
+  border-width: 1px;
+  border-color: #15adbb; }
+
+  .new-project-list {
+    text-align: center;
+  }
+
+  .new-project-list p{
+    color: #363535;
+    font-size: 14px;
+  }
 
 
 .linkedin, .git, .insta{
