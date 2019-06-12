@@ -60,20 +60,20 @@ p {
       margin: 5% auto ;
       width: 83%;
        /* margin: 40px 30%; */
-       background-color:rgba(107, 105, 105, 0.4);
+       background-color:rgba(153, 151, 151, 0.4);
        border-radius: 20px;
    }
   .wokexp h5{
     font-size: 17px;
     font-weight: lighter;
-    color: #efe9e9;
+    color: #f0eeec;
   }
   /* .container h2{
     color: #efe9e9;
   } */
   .wokexp p{
     font-weight: lighter;
-    color: #cdcccb;
+    color: #efe9e9;
     font-size: 14px;
     line-height: 1.5;
     margin-bottom: 20px; 
